@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\_Facultate\APD\curs\FINAL\Sequential Implementation\15PuzzleProblem\main.cpp(112,14): warning C4101: 'x': unreferenced local variable
+D:\_Facultate\APD\curs\FINAL\Sequential Implementation\15PuzzleProblem\main.cpp(166): warning C4715: 'getBlankTile': not all control paths return a value
+  15PuzzleProblem.vcxproj -> D:\_Facultate\APD\curs\FINAL\Sequential Implementation\15PuzzleProblem\Debug\15PuzzleProblem.exe

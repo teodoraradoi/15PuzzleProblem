@@ -1,0 +1,2 @@
+D:\_Facultate\APD\curs\FINAL\Sequential Implementation\15PuzzleProblem\Debug\15PuzzleProblem.exe
+D:\_Facultate\APD\curs\FINAL\Sequential Implementation\15PuzzleProblem\Debug\15PuzzleProblem.pdb
